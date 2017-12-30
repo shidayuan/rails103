@@ -1,0 +1,2 @@
+module Accoount::PostsHelper
+end
